@@ -1,3 +1,4 @@
+#hi
 trigger inpipeline{
     tools{
         jdk 'myjava'
